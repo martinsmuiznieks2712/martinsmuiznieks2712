@@ -70,7 +70,7 @@ I am a Front-End Developer with experience in Back-End management, drawn to the 
 📫 How to reach me: muiznieka@gmail.com 
 
 
-<a href="https://www.linkedin.com/in/martinsmuiznieks2712/" target="_blank">
+<a href="https://www.linkedin.com/in/muiznieksm/" target="_blank">
   <img
     src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg"
     alt="LinkedIn Profile"
