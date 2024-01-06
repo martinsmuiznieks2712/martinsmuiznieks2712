@@ -1,5 +1,15 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"/> I am Mārtiņš.
 
+...
+
+I am a Front-End Developer with experience in Back-End management, drawn to the field of programming for its constant evolution and the endless opportunities for problem-solving and innovation. My passion lies in not only crafting elegant and efficient code but also in the continuous learning journey that programming offers. Eager to expand my skill set, I am committed to staying abreast of new frameworks and technologies, and I thrive in environments where I can contribute to meaningful projects and collaborate with teams to bring creative solutions to life.
+
+...
+
+🧰 Toolbox 
+
+
+
 <!--
 **martinsmuiznieks2712/martinsmuiznieks2712** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
