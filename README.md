@@ -48,7 +48,23 @@ I am a Front-End Developer with experience in Back-End management, drawn to the 
   alt="Git icon"
   width="50px"
   height="50px"
+/> <img
+  src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"
+  alt="MySql icon"
+  width="50px"
+  height="50px"
+/> <img
+  src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg"
+  alt="Bootsrap icon"
+  width="50px"
+  height="50px"
+/> <img
+  src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg"
+  alt="npm icon"
+  width="50px"
+  height="50px"
 />
+
 
 
 
