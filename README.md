@@ -8,6 +8,50 @@ I am a Front-End Developer with experience in Back-End management, drawn to the 
 
 🧰 Toolbox 
 
+<img
+  src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"
+  alt="TS icon"
+  width="50px"
+  height="50px"
+/> <img
+  src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"
+  alt="JS icon"
+  width="50px"
+  height="50px"
+/> <img
+  src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"
+  alt="React icon"
+  width="50px"
+  height="50px"
+/> <img
+  src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg"
+  alt="HTML icon"
+  width="50px"
+  height="50px"
+/> <img
+  src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg"
+  alt="CSS icon"
+  width="50px"
+  height="50px"
+/> <img
+  src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg"
+  alt="NodeJs icon"
+  width="50px"
+  height="50px"
+/> <img
+  src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg"
+  alt="Next.js icon"
+  width="50px"
+  height="50px"
+/> <img
+  src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg"
+  alt="Git icon"
+  width="50px"
+  height="50px"
+/>
+
+
+
 
 
 <!--
