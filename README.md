@@ -13,57 +13,60 @@ I am a Front-End Developer with experience in Back-End management, drawn to the 
   alt="TS icon"
   width="50px"
   height="50px"
-/> <img
+/>   <img
   src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"
   alt="JS icon"
   width="50px"
   height="50px"
-/> <img
+/>   <img
   src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"
   alt="React icon"
   width="50px"
   height="50px"
-/> <img
+/>   <img
   src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg"
   alt="HTML icon"
   width="50px"
   height="50px"
-/> <img
+/>   <img
   src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg"
   alt="CSS icon"
   width="50px"
   height="50px"
-/> <img
+/>   <img
   src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg"
   alt="NodeJs icon"
   width="50px"
   height="50px"
-/> <img
+/>   <img
   src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg"
   alt="Next.js icon"
   width="50px"
   height="50px"
-/> <img
+/>   <img
   src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg"
   alt="Git icon"
   width="50px"
   height="50px"
-/> <img
+/>   <img
   src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"
   alt="MySql icon"
   width="50px"
   height="50px"
-/> <img
+/>   <img
   src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg"
   alt="Bootsrap icon"
   width="50px"
   height="50px"
-/> <img
+/>   <img
   src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg"
   alt="npm icon"
   width="50px"
   height="50px"
 />
+
+...
+
 
 
 
