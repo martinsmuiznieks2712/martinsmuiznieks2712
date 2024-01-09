@@ -63,6 +63,16 @@ I am a Front-End Developer with experience in Back-End management, drawn to the 
   alt="npm icon"
   width="50px"
   height="50px"
+/>   <img
+  src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"
+  alt="npm icon"
+  width="50px"
+  height="50px"
+/>   <img
+  src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg"
+  alt="npm icon"
+  width="50px"
+  height="50px"
 />
 
 ...
