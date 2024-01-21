@@ -78,7 +78,14 @@ I am a Front-End Developer with experience in Back-End management, drawn to the 
   alt="npm icon"
   width="70px"
   height="70px"
+/>   <img
+  src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg"
+  alt="npm icon"
+  width="70px"
+  height="70px"
 />
+
+
 
 ...
 
