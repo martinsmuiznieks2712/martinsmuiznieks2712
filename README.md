@@ -13,7 +13,7 @@ I am a Front-End Developer with experience in Back-End management, drawn to the 
   alt="TS icon"
   width="70px"
   height="70px"
-/>   <img
+/>  <img
   src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"
   alt="JS icon"
   width="70px"
@@ -94,6 +94,21 @@ I am a Front-End Developer with experience in Back-End management, drawn to the 
   width="70px"
   height="70px"
 />
+<img
+  src="https://github.com/devicons/devicon/blob/master/icons/xml/xml-original.svg"
+  alt="npm icon"
+  width="70px"
+  height="70px"
+/> 
+<img
+  src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"
+  alt="npm icon"
+  width="70px"
+  height="70px"
+/>
+
+
+
 
 
 
